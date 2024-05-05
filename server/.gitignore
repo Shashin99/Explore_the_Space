@@ -19,7 +19,6 @@
 .env.production.local
 
 # dotenv environment variables file
-.env
 .env.test
 
 
