@@ -27,7 +27,7 @@ export default function HomePageNew() {
 			};
 			axios
 				.post(
-					`http://localhost:8080/api/users/verify`,
+					`https://explore-the-space-6sm3.onrender.com/api/users/verify`,
 					{},
 					{
 						headers: headers,

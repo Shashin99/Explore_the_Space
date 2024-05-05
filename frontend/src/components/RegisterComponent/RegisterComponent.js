@@ -19,7 +19,7 @@ export default function Register() {
 		};
 
 		axios
-			.post(`http://localhost:8080/api/users/add`, body)
+			.post(`https://explore-the-space-6sm3.onrender.com/api/users/add`, body)
 			.then((res) => {
 				Swal.fire({
 					title: "Registration Successful",
