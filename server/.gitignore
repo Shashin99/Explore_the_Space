@@ -19,7 +19,7 @@
 .env.production.local
 
 # dotenv environment variables file
-.env.test
+
 
 
 npm-debug.log*
