@@ -1,4 +1,4 @@
-# Explore_the_Space
+# EXPLORE THE SPACE
 
 ## Overview
 NASA API Explorer is a React frontend application designed to showcase astronomy-related data retrieved from NASA's public APIs. With this application, users can explore various endpoints provided by NASA and view daily or historical data related to Mars rovers, astronomy pictures of the day, and Earth imagery.
@@ -8,7 +8,7 @@ NASA API Explorer is a React frontend application designed to showcase astronomy
 - Language: JavaScript
 - CSS Framework: Tailwind CSS
 - Backend (Optional): Node.js for user management REST API
-- Hosting: Deployed on ............
+- Hosting: Deployed on Netlify
 - Session Management: LocalStorage
 - Version Control: Git
 
@@ -56,7 +56,7 @@ NASA API Explorer is a React frontend application designed to showcase astronomy
       npm test
   
 ##  Deployment
- - This application is deployed on ............... and can be accessed here. link
+ - This application is deployed on Netlify and can be accessed here. -> https://the-space-explore.netlify.app/
 
 ## Additional Notes
  - This project was developed as an assignment to showcase frontend development skills and API integration.
